@@ -1,4 +1,4 @@
-#!/home/shub/Programs/skin-granny/venv/bin/python3.10
+#!/home/shub/Programs/skin-granny/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
